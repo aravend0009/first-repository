@@ -1,0 +1,29 @@
+.list-item {
+    height: 30px;
+    width: 450px;
+    padding: 10px;
+    color: black;
+    background-color: white;
+    margin-top: 10px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    font-family: "Arial, Helvetica, sans-serif";
+}
+
+.update-button{
+    border-width: 0px;
+    color: white;
+    background-color: blue;
+}
+
+.delete {
+    color: red;
+}
+
+.edit {
+    color: blue;
+    margin-right: 15px;
+}
